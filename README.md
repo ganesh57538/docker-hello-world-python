@@ -12,4 +12,4 @@ Run the Docker container using the command shown below.
 $ docker run -d -p 80:80 simple-flask-app
 ```
 
-The application will be accessible at http:127.0.0.1:5000 
+The application will be accessible at http:127.0.0.1:80
